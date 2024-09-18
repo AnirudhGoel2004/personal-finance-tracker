@@ -29,16 +29,6 @@
 
 ---
 
-## 🎨 Screenshots
-
-### Dashboard Example
-![dashboard-example](https://via.placeholder.com/800x400.png?text=Dashboard+Example)
-
-### Expense Pie Chart
-![pie-chart-example](https://via.placeholder.com/800x400.png?text=Pie+Chart+Example)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
